@@ -1,1 +1,14 @@
-
+{
+	"geode": "4.0.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"version": "v1.0.0",
+	"id": "yourname.noclip-toggle",
+	"name": "Noclip Toggle",
+	"developer": "yourname",
+	"description": "Báº­t/táº¯t noclip báº±ng má»™t nĂºt gá»n Ä‘áº¹p á»Ÿ menu chĂ­nh vĂ  menu táº¡m dá»«ng."
+}
